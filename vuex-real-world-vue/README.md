@@ -38,3 +38,7 @@ npm run build
 ```
 npm run lint
 ```
+
+### Resource
+
+https://github.com/Code-Pop/Vuex_Fundamentals
